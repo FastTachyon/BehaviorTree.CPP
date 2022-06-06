@@ -62,7 +62,6 @@ NodeStatus SyncActionNode::executeTick()
   // {
   //   throw LogicError("SyncActionNode MUST never return RUNNING");
   // }
-  return stat;
 }
 
 
